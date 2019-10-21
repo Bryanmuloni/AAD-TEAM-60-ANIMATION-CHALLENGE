@@ -68,7 +68,7 @@
                 style="@style/textInputStyle"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-                android:drawableStart="@drawable/ic_lock"
+                android:drawableStart="@drawable/ic_people"
                 android:editable="false" />
 
         </com.google.android.material.textfield.TextInputLayout>
@@ -91,7 +91,7 @@
                 style="@style/textInputStyle"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-                android:drawableStart="@drawable/ic_lock"
+                android:drawableStart="@drawable/ic_dept"
                 android:editable="false" />
 
         </com.google.android.material.textfield.TextInputLayout>
